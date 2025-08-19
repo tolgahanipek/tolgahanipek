@@ -1,14 +1,14 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tolgahan%20İpek&fontSize=50&fontAlignY=35&desc=Yazılım%20%7C%20Matematik%20%7C%20Geometri&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tolgahan%20İpek&fontSize=50&fontAlignY=35&desc=Software%20%7C%20Mathematics%20%7C%20Geometry&descAlignY=55&descAlign=50)
 
-# 👋 Merhaba, ben Tolgahan İpek  
+# 👋 Hi, I'm Tolgahan İpek  
 
-🎯 Yazılım, matematik ve geometri alanlarına ilgi duyan bir geliştiriciyim.  
-🚀 Kodlamayı, problem çözmeyi ve öğrendiklerimi paylaşmayı seviyorum.  
-📚 Üniversite öğrencilerine yönelik içerikler üretiyorum.  
+🎯 I'm a developer passionate about software, mathematics, and geometry.  
+🚀 I enjoy coding, solving problems, and sharing what I learn.  
+📚 I create content mainly for university students.  
 
 ---
 
-## 🔧 Kullandığım Teknolojiler ve Diller  
+## 🔧 Technologies & Languages  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
@@ -20,19 +20,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-dark-mode-only" alt="github-dark" width="50" height="50"/>
 </p>
 
 ---
 
-## 📌 İlgi Alanlarım
-- 📐 Matematik & Geometri  
-- 💻 Algoritmalar ve Problem Çözme  
-- 🎥 Eğitim Odaklı İçerik Üretimi  
+## 📌 Interests  
+- 📐 Mathematics & Geometry  
+- 💻 Algorithms & Problem Solving  
+- 🎥 Creating Educational Content  
 
 ---
 
-## 📫 Bana Ulaş  
+## 📫 Contact Me  
 
 <p align="left">
   <a href="https://tolgahanipek.github.io/" target="_blank">
@@ -54,7 +54,7 @@
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Stats  
 ![Tolgahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolgahanipek&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgahanipek&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=tolgahanipek&theme=radical&border_radius=10)
@@ -62,11 +62,16 @@
 ---
 
 
-## 👀 Ziyaretçi Sayacı
+## ⏳ Activity Graph  
+[![Tolgahan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tolgahanipek&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 👀 Visitor Counter  
 ![Visitors](https://komarev.com/ghpvc/?username=tolgahanipek&color=blue&style=flat-square&label=Profile+Views)
 
 ---
 
-⭐️ **Yeni şeyler öğrenmeyi, üretmeyi ve paylaşmayı seviyorum!**  
+⭐️ **I love learning, building, and sharing new things!**  
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
